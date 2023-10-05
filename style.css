@@ -1,0 +1,46 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.menubar{
+    display: inline-block;
+}
+.logo{
+    margin: 3px;
+    padding: 3px;
+    float: left;
+    display: inline;
+}
+.links{
+    margin: 3px;
+    padding: 3px;
+    float: right;
+    display: inline;
+}
+.banner
+{
+    background-image: url(images/chick.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 350px;
+    
+}
+.body
+{
+    margin: 3px;
+    padding: 3px;
+    border-radius: 5px;
+    position: absolute;
+    left: 50vh;
+    right: 50vh;
+}
+
+.text
+{
+    color: black;
+    font-size: large;
+    text-decoration: wavy;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
